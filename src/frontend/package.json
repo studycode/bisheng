@@ -45,7 +45,7 @@
     "cmdk": "^0.2.0",
     "daisyui": "^3.6.3",
     "dompurify": "^3.0.5",
-    "esbuild": "^0.17.19",
+    "esbuild": "^0.20.2",
     "i18next": "^23.6.0",
     "i18next-http-backend": "^2.2.2",
     "jsencrypt": "^3.3.2",
