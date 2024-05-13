@@ -43,7 +43,7 @@
     "class-variance-authority": "^0.6.1",
     "clsx": "^2.0.0",
     "cmdk": "^0.2.0",
-    "daisyui": "^3.6.3",
+    "daisyui": "^4.0.0",
     "dompurify": "^3.0.5",
     "esbuild": "^0.17.19",
     "i18next": "^23.6.0",
