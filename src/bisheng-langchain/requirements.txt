@@ -2,8 +2,8 @@ langchain==0.1.12
 zhipuai
 websocket-client
 elasticsearch
-opencv-python==4.5.5.64
-Pillow==9.5.0
+opencv-python==4.8.1.78
+Pillow==10.3.0
 bisheng-pyautogen
 jieba==0.42.1
 pydantic==1.10.13
@@ -13,3 +13,4 @@ filetype==1.2.0
 langgraph==0.0.30
 openai==1.14.3
 langchain-openai==0.1.0
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
