@@ -33,7 +33,7 @@
     "@tabler/icons-react": "^2.32.0",
     "@tailwindcss/forms": "^0.5.6",
     "@tailwindcss/line-clamp": "^0.4.4",
-    "@types/axios": "^0.14.0",
+    "@types/axios": "^0.14.4",
     "accordion": "^3.0.2",
     "ace-builds": "^1.24.1",
     "add": "^2.0.6",
